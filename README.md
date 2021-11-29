@@ -1,4 +1,4 @@
-
+自用请勿拉取 拉取后24小时删除  不参与然后版权
 
 # qqbot-multi-platform
 qqbot 跨平台docker 发布库
